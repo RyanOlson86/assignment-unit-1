@@ -1,7 +1,7 @@
 /* Add a background color to the header element */
 header {
     background-color: rgb(234, 108, 18);
-    border: 3px dashed rgb(83,13,149);
+    border: 3px ridge rgb(83,13,149);
     font-size: 24px;
 
 }
@@ -9,8 +9,9 @@ header {
 main {
     background-color: rgb(234, 108, 18);
     color: black;
-    margin: 15px;
-    border: 8px solid rgb(83, 13, 149);
+    margin: 20px;
+    border: 8px ridge rgb(83, 13, 149);
+    padding-left: 15px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
