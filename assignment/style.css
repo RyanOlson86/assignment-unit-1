@@ -23,6 +23,7 @@ h1 {
 p {
     color:yellow;
     padding-left: 10px;
+    font-style: italic;
 }
 /* Put a border around your image */
 img {
@@ -33,7 +34,7 @@ img {
 }
 /* Change the font-family of your list */
 h2 {
-    padding-left: 10px;
+    padding-left: 20px;
     margin-bottom: 0px;
 }
 ul{
