@@ -7,11 +7,12 @@ header {
 }
 /* Add a fun background color to the main element */
 main {
-    background-color: rgb(234, 108, 18);
+    /* background-color: rgb(234, 108, 18); */
     color: black;
     margin: 20px;
     border: 8px ridge rgb(83, 13, 149);
     padding-left: 15px;
+    background-image: linear-gradient(to bottom right, rgb(234, 108, 19), rgb(231, 203, 22));
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
